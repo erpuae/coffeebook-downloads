@@ -2,7 +2,7 @@
 
 The CoffeeBook app for cafes and restaurants.
 
-**[Download CoffeeBook.apk](https://github.com/erpuae/coffeebook-downloads/raw/main/CoffeeBook.apk)** (Android 8 or later, about 18 MB)
+**[Download CoffeeBook.apk](https://github.com/erpuae/coffeebook-downloads/raw/main/CoffeeBook.apk)** (Android 8 or later, about 24 MB)
 
 ## Install
 
